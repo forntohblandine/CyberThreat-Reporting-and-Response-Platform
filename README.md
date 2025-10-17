@@ -3,7 +3,7 @@
 Cyber threats such phishing scams, social media impersonation,� and fake�job advertisements�are on the rise�in numerous Cameroonian cities, including Yaound� and Bamenda. Victims frequently don't know where to report these occurrences, and there isn't a centralized method for local authorities or service�providers to gather and examine these reports. Delays in responding to new digital dangers and fragmented awareness result from this.
 The Community Cyber Threat Reporting and Response Platform (C-CTRR), a distributed, cloud-based community service that enables people, organizations, and security volunteers to report cyber incidents, share verified alerts, and work together to respond to threats that impact the local community, is what this project intends to develop in order to address this.
 # Description of the Service
-C-CTRR is a web and mobile platform where users can:
+C-CTRR is a web platform where users can:
     - Report suspicious messages, phishing links, data breaches, or social media scams.
     - Validate reports through community moderation and expert review.
     - Visualize threat statistics by region and type of attack.
